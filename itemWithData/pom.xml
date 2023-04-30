@@ -35,6 +35,7 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
+<<<<<<< HEAD
 
 		<dependency>
 			<groupId>com.h2database</groupId>
@@ -46,6 +47,8 @@
 			<artifactId>derby</artifactId>
 			<scope>runtime</scope>
 		</dependency>
+=======
+>>>>>>> a8d8ffbd7c71705f4d47485c740abb45f6d163b4
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
